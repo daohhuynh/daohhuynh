@@ -1,5 +1,5 @@
 # Dao Huynh
-**Computer Science & Neuroscience @ UCLA**
+**Computer Science & Linguistics + Cognitive Science @ UCLA**
 
 ---
 
