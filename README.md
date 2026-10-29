@@ -1,8 +1,8 @@
 # Dao Huynh
 **Computer Science & Linguistics + Cognitive Science @ UCLA**
 
----
+Reach me at daohuynh@ucla.edu
 
-* **Low-Level Execution:** Lock-free concurrency, AVX2-vectorized math kernels, and O(1) order books in C++20/23; built for hot-path determinism and microsecond throughput.
-* **Full-Stack & Agentic Infrastructure:** Single-page WebAssembly products, async multi-agent orchestration for autonomous debate telemetry, headless browser agents for B2B supply chain extraction, and fault-tolerant telemetry pipelines across Python and TypeScript.
-* **Systems & OS Internals:** Crossing layer boundaries via native bridges, Apple Neural Engine inference, JA3/TLS signature spoofing, and embedded firmware for real-time hardware-software rigs.
+I started programming when the voltage imaging data in my neuroscience lab could no longer run on our hardware, and a CppCon talk on efficiency turned that into an obsession with optimization. Now I build in C++ with a focus on quantitative development and low-latency systems. 
+
+Before coding, I moved here from Vietnam at 9 years old. I love poetry, epistemology, and learning languages.
